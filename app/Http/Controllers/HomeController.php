@@ -1,8 +1,11 @@
 <?php
 
 namespace App\Http\Controllers;
-
+use Mail;
+use App\User;
+use App\Http\Controllers\Controller;
 use Illuminate\Http\Request;
+
 
 class HomeController extends Controller
 {
@@ -45,6 +48,11 @@ class HomeController extends Controller
     {
         return view('/gallery');
     }
+
+    public function policy()
+    {
+        return view('/policy');
+    }
     public function ladakh_itinerary(Request $request)
     {
         return view('/itinerary/itinerary_ladakh');
@@ -78,21 +86,25 @@ class HomeController extends Controller
      
     public function mail(Request $request)
     {
+        $fname = $request->input('fname');
+        $lname = $request->input('lname');
+        $email = $request->input('email');
+        $subject = $request->input('subject');
+        $message = $request->input('message');
+     
+        $data = array('fname'=>$fname,'email'=>$email,'lname'=>$lname,'subject'=>$subject,'message'=>$message);
+       
+      try {
+                Mail::send(['html'=>'mail'], $data, function($message) use ($data) {
 
-       var_dump($fname = $request->input('fname'));die;
-
-        // $fname = $request->input('fname');
-        // $lname = $request->input('lname');
-        // $email = $request->input('email');
-        // $subject = $request->input('subject');
-        // $message = $request->input('message');
-
-      
-        // Mail::send(['text'=>'mail'], $data, function($message) use ($data) {
-        //  $message->to($data['test.oc907@gmail.com'], 'Testing mail')->subject
-        //     ($subject);
-        //  $message->from($email, $fname);
-        // });
-      // return response()->json();
-    } 
+                    $message->to('Dreamchasertoursandtravels@gmail.com', 'mail')->subject
+                        ($data['subject']);
+                    $message->from($data['email'],'Client');
+                });
+            
+            } catch (Exception $e) {
+                echo 'Exception: ', $e->getMessage(), PHP_EOL;
+            }
+        return response()->json(['msg'=> 'Link Sent Succesfully.'], 200);  
+    }
 }
