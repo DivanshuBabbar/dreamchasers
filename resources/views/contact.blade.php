@@ -1,9 +1,10 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Dreamchaser_tour </title>
+    <title>dreamchasertoursandtravels </title> 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="csrf-token" content="{{ csrf_token() }}" />
 
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
     <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,700,900|Display+Playfair:200,300,400,700"> 
@@ -25,10 +26,20 @@
     <link rel="stylesheet" href="css/aos.css">
 
     <link rel="stylesheet" href="css/style.css">
-    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/limonte-sweetalert2/7.29.2/sweetalert2.all.js"></script>
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PC4R569WGG"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag(){dataLayer.push(arguments);}
+        gtag('js', new Date());
+        gtag('config', 'G-PC4R569WGG');
+    </script>
+
+
   </head>
   <body>
-  
+
   <div class="site-wrap">
 
     <div class="site-mobile-menu">
@@ -39,7 +50,7 @@
       </div>
       <div class="site-mobile-menu-body"></div>
     </div>
-    
+
     <header class="site-navbar py-1" role="banner">
 
       <div class="container">
@@ -123,7 +134,7 @@
 
             
 
-            <form  class="p-5 bg-white">
+            <form  class="p-5 bg-white mail_form">
              
 
               <div class="row form-group">
@@ -162,7 +173,7 @@
 
               <div class="row form-group">
                 <div class="col-md-12">
-                  <input type="submit" value="Send Message" class="btn btn-primary py-2 px-4 text-white send_email">
+                  <button type="button" class="btn btn-primary py-2 px-4 text-white send_email">Submit</button>
                 </div>
               </div>
 
@@ -205,7 +216,7 @@
           <div class="col-lg-4">
             <div class="mb-5">
               <h3 class="footer-heading mb-4">About Dreamchaser_tour</h3>
-              <p>We at dreamchaser tours and travels, aim to give wings to all the travellers by fulfilling their dreams to explore The unexplored destinations at an affordable price with a bunch of unmatchable amenities.</p>
+              <p style="text-align: justify;">We at dreamchaser tours and travels, aim to give wings to all the travellers by fulfilling their dreams to explore The unexplored destinations at an affordable price with a bunch of unmatchable amenities.</p>
             </div>
 
             
@@ -227,7 +238,7 @@
               <div class="col-md-6 col-lg-6">
                 <ul class="list-unstyled">
                   <li><a href="/about">About Us</a></li>
-                  <li><a href="#">Privacy Policy</a></li>
+                  <li><a href="/policy">Privacy Policy</a></li>
                   <li><a href="/contact">Contact Us</a></li>
                   <li><a href="/discount">Discounts</a></li>
                 </ul>

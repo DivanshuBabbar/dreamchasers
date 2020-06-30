@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Dreamchaser_tour  </title>
+    <title>dreamchasertoursandtravels  </title> 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
@@ -24,7 +24,14 @@
     <link rel="stylesheet" href="css/aos.css">
 
     <link rel="stylesheet" href="css/style.css">
-    
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-PC4R569WGG"></script>
+	<script>
+ 	 window.dataLayer = window.dataLayer || [];
+ 	 function gtag(){dataLayer.push(arguments);}
+ 	 gtag('js', new Date());
+	 gtag('config', 'G-PC4R569WGG');
+	</script>    
   </head>
   <body>
   
@@ -117,7 +124,7 @@
 
               <h1 class="text-white font-weight-light">Never Stop Exploring</h1>
              <!--  <p class="mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga est inventore ducimus repudiandae.</p> -->
-              <p><a href="/booking" class="btn btn-primary py-3 px-5 text-white">Book Now!</a></p>
+              <p><a href="/contact" class="btn btn-primary py-3 px-5 text-white">Book Now!</a></p>
 
             </div>
           </div>
@@ -131,7 +138,7 @@
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="400">
               <h1 class="text-white font-weight-light">Love The Places</h1>
               <!-- <p class="mb-5">Lorem ipsum dolor sit amet consectetur adipisicing elit. Fuga est inventore ducimus repudiandae.</p> -->
-              <p><a href="/booking" class="btn btn-primary py-3 px-5 text-white">Book Now!</a></p>
+              <p><a href="/contact" class="btn btn-primary py-3 px-5 text-white">Book Now!</a></p>
             </div>
           </div>
         </div>
@@ -180,7 +187,7 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><span class="text-primary flaticon-airplane"></span></div>
-              <div>
+              <div style="text-align: justify;">
                <h3>Ticket Booking</h3>
                 <p> We provide you with a Exclusive Rail and Bus tour packages with confirmed train tickets,bus tickets sight-seeing and meals for enhancing  Mountains, kasol, Kullu Manali etc . at cheapest price..</p>
               </div>
@@ -189,7 +196,7 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><span class="text-primary flaticon-sailboat"></span></div>
-              <div>
+              <div style="text-align: justify;">
                 <h3>Pic/Drop Services</h3>
                 <p> Provides you  a pick up and drop facility to its esteemed customers on prior booking. While booking your appointment for a service, you can make use of this facility to save time for other endeavors.</p>
               </div>
@@ -198,7 +205,7 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-0">
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><span class="text-primary flaticon-route"></span></div>
-              <div>
+              <div style="text-align: justify;">
                 <h3>Tour Packages</h3>
                 <p>From five-star hotels to makeshift tents We Dreamchasers_tours provide you with best back and forth packages including travel,sight seeing,meals and many more..</p>
               </div>
@@ -233,7 +240,7 @@
                   <img src="images/012.jpeg" alt="Image" class="img-md-fluid">
                 </div>
                 <div class="overlap-left col-lg-6 bg-white p-md-5 align-self-center">
-                  <p class="text-black lead">&ldquo;I came to manali in first week of january with my friends for 5 days trip. To be honest the best trip ever had done in my life, lots of memories. Hotel room views were just awesome during snow falls and views of himalyas oh my god!♥♥ I cannot explain. We had done many of adventures.I cannot explain all, just come and explore heaven in manali!!
+                  <p class="text-black lead" style="text-align: justify;">&ldquo;I came to manali in first week of january with my friends for 5 days trip. To be honest the best trip ever had done in my life, lots of memories. Hotel room views were just awesome during snow falls and views of himalyas oh my god!♥♥ I cannot explain. We had done many of adventures.I cannot explain all, just come and explore heaven in manali!!
                   And thank you so so much for the most awesome, most memorable trip.☺♥
                   Can't wait for the next adventure!&rdquo;</p>
                   <p class="">&mdash; <em>Alia</em>, <a href="#">Traveler</a></p>
@@ -249,7 +256,7 @@
                   <img src="images/100.jpeg" alt="Image" class="img-md-fluid">
                 </div>
                 <div class="overlap-left col-lg-6 bg-white p-md-5 align-self-center">
-                  <p class="text-black lead">&ldquo;Best of Journey is a fine operator. You can trust them. They delivered what they promised. I went to Kasol and Manali. Kasol is a very soulful place.
+                  <p class="text-black lead" style="text-align: justify;">&ldquo;Best of Journey is a fine operator. You can trust them. They delivered what they promised. I went to Kasol and Manali. Kasol is a very soulful place.
                   They are good and honest. You can go ahead with your planning with them.&rdquo;</p>
                   <p class="">&mdash; <em>Sahil</em>, <a href="#">Traveler</a></p>
                 </div>
@@ -264,7 +271,7 @@
                   <img src="images/400.jpeg" alt="Image" class="img-md-fluid">
                 </div>
                 <div class="overlap-left col-lg-6 bg-white p-md-5 align-self-center">
-                  <p class="text-black lead">&ldquo;Though I have not yet travelled with Best of Journeys but on my friend’s recommendation booked them for a week long outing in the mountains of Himalaya. It’s a new company yes, it has shortcomings of being the same but can be trusted going by the reviews of sahil, my friend. The package deals are ok,&rdquo;</p>
+                  <p class="text-black lead" style="text-align: justify;">&ldquo;Though I have not yet travelled with Best of Journeys but on my friend’s recommendation booked them for a week long outing in the mountains of Himalaya. It’s a new company yes, it has shortcomings of being the same but can be trusted going by the reviews of sahil, my friend. The package deals are ok,&rdquo;</p>
                   <p class="">&mdash; <em>Shilpy</em>, <a href="#">Traveler</a></p>
                 </div>
               </div>
@@ -377,7 +384,7 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><span class="text-primary flaticon-airplane"></span></div>
-              <div>
+               <div style="text-align: justify;">
                 <h3>Ticket Booking</h3>
                 <p> We provide you with a Exclusive Rail and Bus tour packages with confirmed train tickets,bus tickets sight-seeing and meals for enhancing  Mountains, kasol, Kullu Manali etc . at cheapest price..</p>
               </div>
@@ -386,7 +393,7 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><span class="text-primary flaticon-ship"></span></div>
-              <div>
+              <div style="text-align: justify;">
                 <h3>Family tours</h3>
                <p>We Dreamchasers_tour offers family adventures so that you and your kids will love. We here provide you family adventure travel chock-full of activities just for kids, plus adventures the entire family will enjoy as a group.</p>
               </div>
@@ -395,7 +402,7 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><span class="text-primary flaticon-route"></span></div>
-              <div>
+               <div style="text-align: justify;">
                  <h3>Tour Packages</h3>
                 <p>From five-star hotels to makeshift tents We Dreamchasers_tours provide you with best back and forth packages including travel,sight seeing,meals and many more..</p>
               </div>
@@ -406,7 +413,7 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><span class="text-primary flaticon-hotel"></span></div>
-              <div>
+               <div style="text-align: justify;">
                 <h3>Hotel Accomodations</h3>
                 <p>We have a range of accomodation partners around the globe.
                   With around 800 Accomodation partners, we wish to provide the best accomodation with respect to the budget and requirements of the cleint</p>
@@ -417,7 +424,7 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><span class="text-primary flaticon-sailboat"></span></div>
-              <div>
+                <div style="text-align: justify;">
                  <h3>Pic/Drop Services</h3>
                 <p> Provides you  a pick up and drop facility to its esteemed customers on prior booking. While booking your appointment for a service, you can make use of this facility to save time for other endeavors.</p>
               </div>
@@ -426,7 +433,7 @@
           <div class="col-md-6 col-lg-4 mb-4 mb-lg-4">
             <div class="unit-4 d-flex">
               <div class="unit-4-icon mr-4"><span class="text-primary flaticon-ski"></span></div>
-              <div>
+              <div style="text-align: justify;">
                  <h3>Adventurous Sports</h3>
                 <p>Adventure is worthwhile, and keeping this in mind, we offer a wide range of adventure activities to our activities, which includes Paragliding ,Scuba diving ,Rafting, Water sports ,Snow sports, Zipline,River crossing,Bunjee jumping,Atv,Mountain bikes.</p>
               </div>
@@ -444,7 +451,7 @@
         <div class="row text-center">
           <div class="col-md-12">
             <h2 class="mb-5 text-black">Want To Travel With Us?</h2>
-            <p class="mb-0"><a href="/booking" class="btn btn-primary py-3 px-5 text-white">Book Now</a></p>
+            <p class="mb-0"><a href="/contact" class="btn btn-primary py-3 px-5 text-white">Book Now</a></p>
           </div>
         </div>
       </div>
@@ -461,7 +468,7 @@
           <div class="col-lg-4">
             <div class="mb-5">
               <h3 class="footer-heading mb-4">About Dreamchaser_tour</h3>
-              <p>We at dreamchaser tours and travels, aim to give wings to all the travellers by fulfilling their dreams to explore The unexplored destinations at an affordable price with a bunch of unmatchable amenities.</p>
+              <p style="text-align:justify;">We at dreamchaser tours and travels, aim to give wings to all the travellers by fulfilling their dreams to explore The unexplored destinations at an affordable price with a bunch of unmatchable amenities.</p>
             </div>
 
             
@@ -483,7 +490,7 @@
               <div class="col-md-6 col-lg-6">
                 <ul class="list-unstyled">
                   <li><a href="/about">About Us</a></li>
-                  <li><a href="#">Privacy Policy</a></li>
+                  <li><a href="/policy">Privacy Policy</a></li>
                   <li><a href="/contact">Contact Us</a></li>
                   <li><a href="/discount">Discounts</a></li>
                 </ul>

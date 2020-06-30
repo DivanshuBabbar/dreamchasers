@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <title>Dreamchaser_tour </title>
+  <head> 
+    <title>dreamchasertoursandtravels </title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -25,7 +25,14 @@
     <link rel="stylesheet" href="css/aos.css">
 
     <link rel="stylesheet" href="css/style.css">
-    
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-PC4R569WGG"></script>
+	<script>
+ 	  window.dataLayer = window.dataLayer || [];
+	  function gtag(){dataLayer.push(arguments);}
+          gtag('js', new Date());
+          gtag('config', 'G-PC4R569WGG');
+        </script>    
   </head>
   <body>
   
@@ -195,7 +202,7 @@
           <div class="col-lg-4">
             <div class="mb-5">
               <h3 class="footer-heading mb-4">About Dreamchaser_tour</h3>
-              <p>We at dreamchaser tours and travels, aim to give wings to all the travellers by fulfilling their dreams to explore The unexplored destinations at an affordable price with a bunch of unmatchable amenities.</p>
+              <p style="text-align: justify;">We at dreamchaser tours and travels, aim to give wings to all the travellers by fulfilling their dreams to explore The unexplored destinations at an affordable price with a bunch of unmatchable amenities.</p>
             </div>
 
             
@@ -217,7 +224,7 @@
               <div class="col-md-6 col-lg-6">
                 <ul class="list-unstyled">
                   <li><a href="/about">About Us</a></li>
-                  <li><a href="#">Privacy Policy</a></li>
+                  <li><a href="/policy">Privacy Policy</a></li>
                   <li><a href="/contact">Contact Us</a></li>
                   <li><a href="/discount">Discounts</a></li>
                 </ul>

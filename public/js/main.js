@@ -11,13 +11,17 @@ $(document).on("click", ".send_email", function(e) {
  var lname = $("input[name=lname]").val();
  var email = $("input[name=email]").val();
  var subject = $("input[name=subject]").val();
- var message = $("input[name=message]").val();
+ var message = $('#message').val();
    
  $.ajax({
 	    type: "post",
+	    headers: {
+        'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content')
+        },
 	    url: "/admin_email",
 	    data: { fname: fname , lname: lname , email: email , subject : subject , message : message },
 	    success: function(data, ) {
+	    	$(".mail_form").trigger("reset");
 	      Swal.fire({
 		        type: "success",
 		        title: "Mail Sent Successfully",

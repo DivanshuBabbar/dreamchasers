@@ -126,7 +126,7 @@
           <div class="col-lg-4">
             <div class="mb-5">
               <h3 class="footer-heading mb-4">About Dreamchaser_tour</h3>
-              <p>We at dreamchaser tours and travels, aim to give wings to all the travellers by fulfilling their dreams to explore The unexplored destinations at an affordable price with a bunch of unmatchable amenities.
+              <p style="text-align: justify;">We at dreamchaser tours and travels, aim to give wings to all the travellers by fulfilling their dreams to explore The unexplored destinations at an affordable price with a bunch of unmatchable amenities.
              </p>
             </div>
 
@@ -149,7 +149,7 @@
               <div class="col-md-6 col-lg-6">
                 <ul class="list-unstyled">
                   <li><a href="/about">About Us</a></li>
-                  <li><a href="#">Privacy Policy</a></li>
+                  <li><a href="/policy">Privacy Policy</a></li>
                   <li><a href="/contact">Contact Us</a></li>
                   <li><a href="/discount">Discounts</a></li>
                 </ul>

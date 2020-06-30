@@ -19,6 +19,7 @@ Route::get('/mcleodganj_itinerary', 'HomeController@mcleodganj_itinerary')->name
 
 Route::post('/admin_email', 'HomeController@mail')->name('admin_email');
 Route::get('/discount', 'HomeController@discount')->name('discount');
+Route::get('/policy', 'HomeController@policy')->name('policy');
 Route::get('/welcome', 'HomeController@welcome')->name('welcome');
 Route::get('/booking', 'HomeController@booking')->name('booking');
 Route::get('/about', 'HomeController@about')->name('about');

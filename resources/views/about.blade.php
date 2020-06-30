@@ -1,12 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Dreamchaser_tour </title>
+    <title>dreamchasertoursandtravels </title> 
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
     <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.11.2/css/all.min.css">
-    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,700,900|Display+Playfair:200,300,400,700"> 
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Poppins:200,300,400,700,900|Display+Playfair:200,300,400,700">
     <link rel="stylesheet" href="fonts/icomoon/style.css">
 
     <link rel="stylesheet" href="css/bootstrap.min.css">
@@ -25,10 +25,17 @@
     <link rel="stylesheet" href="css/aos.css">
 
     <link rel="stylesheet" href="css/style.css">
-    
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-PC4R569WGG"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+ 	 function gtag(){dataLayer.push(arguments);}
+	 gtag('js', new Date());
+ 	 gtag('config', 'G-PC4R569WGG');
+   </script>
   </head>
   <body>
-  
+
   <div class="site-wrap">
 
     <div class="site-mobile-menu">
@@ -123,11 +130,13 @@
             <img src="images/200.jpeg" alt="Image" class="img-fluid rounded">
           </div>
           <div class="col-md-6 pl-md-5">
-            <h2 class="font-weight-light text-black mb-4">About Company</h2>
-            <p>We at dreamchaser tours and travels, aim to give wings to all the travellers by fulfilling their dreams to explore The unexplored destinations at an affordable price with a bunch of unmatchable amenities.
-            We ensure to make the travel experience the best, meeting each and every promise given.
-            We make group of travellers with similar interests and esure that our wanderes meet a lot of different people from different cultures and explore the places along with the tradition 
-            With main focus to serve the youth of the country, we do not leave any age group untouched, and provide customized packages to families, friends, etc.</p>
+            <h2 class="font-weight-light text-black mb-4">WHO ARE WE?</h2>
+            <p style="text-align: justify;">Dreamchaser Tours & Travels is one of the leading tour operators in Gurgaon, Delhi NCR. providing comprehensive services for groups and individuals from and to the country.
+            DC was first established in the year 2018 by qualified professionals with more than Two years of experience in the tourism industry. Holding places, people and customs through professional guides, modern transportation, quality hotels, fine restaurants and other key vendors.
+            Located at 317/1 MG road, Gurgaon our offices are open from 9 AM till 7 PM 6 days a week; you can freely call our agents 24/7 for urgent requests or emergency.
+            We are fully licensed agency (under Registration Number: 06IOZPS8205A2ZF ) & categorized as an (A) travel 
+            Our specialized departments offer a diversity of services. Every department works independently to provide the best service to our customers, targeting their friendship and a long lasting relationship.
+            All services and departments are located at our office in Gurgaon, starting with the Management and Administrative Department, Operational Department, Reservation Department, Product Development, Sales & Marketing, Inbound, Outbound & Ticketing Departments, giving us a competitive advantage by being all under one roof.</p>
 
             <ul class="list-unstyled">
               <li class="d-flex align-items-center"><span class="icon-check2 text-primary h3 mr-2"></span><span>Ensure to make the travel experience the best</span></li>
@@ -201,7 +210,7 @@
                   <img src="images/012.jpeg" alt="Image" class="img-md-fluid">
                 </div>
                 <div class="overlap-left col-lg-6 bg-white p-md-5 align-self-center">
-                  <p class="text-black lead">&ldquo;I came to manali in first week of january with my friends for 5 days trip. To be honest the best trip ever had done in my life, lots of memories. Hotel room views were just awesome during snow falls and views of himalyas oh my god!♥♥ I cannot explain. We had done many of adventures.I cannot explain all, just come and explore heaven in manali!!
+                  <p class="text-black lead" style="text-align: justify;" >&ldquo;I came to manali in first week of january with my friends for 5 days trip. To be honest the best trip ever had done in my life, lots of memories. Hotel room views were just awesome during snow falls and views of himalyas oh my god!♥♥ I cannot explain. We had done many of adventures.I cannot explain all, just come and explore heaven in manali!!
                   And thank you so so much for the most awesome, most memorable trip.☺♥
                   Can't wait for the next adventure!&rdquo;</p>
                   <p class="">&mdash; <em>Alia</em>, <a href="#">Traveler</a></p>
@@ -217,7 +226,7 @@
                   <img src="images/100.jpeg" alt="Image" class="img-md-fluid">
                 </div>
                 <div class="overlap-left col-lg-6 bg-white p-md-5 align-self-center">
-                  <p class="text-black lead">&ldquo;Best of Journey is a fine operator. You can trust them. They delivered what they promised. I went to Kasol and Manali. Kasol is a very soulful place.
+                  <p class="text-black lead" style="text-align: justify;">&ldquo;Best of Journey is a fine operator. You can trust them. They delivered what they promised. I went to Kasol and Manali. Kasol is a very soulful place.
                   They are good and honest. You can go ahead with your planning with them.&rdquo;</p>
                   <p class="">&mdash; <em>Sahil</em>, <a href="#">Traveler</a></p>
                 </div>
@@ -232,7 +241,7 @@
                   <img src="images/400.jpeg" alt="Image" class="img-md-fluid">
                 </div>
                 <div class="overlap-left col-lg-6 bg-white p-md-5 align-self-center">
-                  <p class="text-black lead">&ldquo;Though I have not yet travelled with Best of Journeys but on my friend’s recommendation booked them for a week long outing in the mountains of Himalaya. It’s a new company yes, it has shortcomings of being the same but can be trusted going by the reviews of sahil, my friend. The package deals are ok,&rdquo;</p>
+                  <p class="text-black lead" style="text-align: justify;">&ldquo;Though I have not yet travelled with Best of Journeys but on my friend’s recommendation booked them for a week long outing in the mountains of Himalaya. It’s a new company yes, it has shortcomings of being the same but can be trusted going by the reviews of sahil, my friend. The package deals are ok,&rdquo;</p>
                   <p class="">&mdash; <em>Shilpy</em>, <a href="#">Traveler</a></p>
                 </div>
               </div>
@@ -248,7 +257,7 @@
         <div class="row text-center">
           <div class="col-md-12">
             <h2 class="mb-5 text-black">Want To Travel With Us?</h2>
-            <p class="mb-0"><a href="/booking" class="btn btn-primary py-3 px-5 text-white">Book Now</a></p>
+            <p class="mb-0"><a href="/contact" class="btn btn-primary py-3 px-5 text-white">Book Now</a></p>
           </div>
         </div>
       </div>
@@ -264,7 +273,7 @@
           <div class="col-lg-4">
             <div class="mb-5">
               <h3 class="footer-heading mb-4">About Dreamchaser_tour</h3>
-              <p>We at dreamchaser tours and travels, aim to give wings to all the travellers by fulfilling their dreams to explore The unexplored destinations at an affordable price with a bunch of unmatchable amenities.
+              <p style="text-align: justify;">We at dreamchaser tours and travels, aim to give wings to all the travellers by fulfilling their dreams to explore The unexplored destinations at an affordable price with a bunch of unmatchable amenities.
              </p>
             </div>
 
