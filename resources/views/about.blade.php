@@ -113,7 +113,7 @@
           <div class="row align-items-center justify-content-center text-center">
 
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="400">
-              <h1 class="text-white font-weight-light">About Dreamchaser_tour</h1>
+              <h1 class="text-white font-weight-light">About Dreamchaser tours and travels</h1>
               <div><a href="/welcome">Home</a> <span class="mx-2 text-white">&bullet;</span> <span class="text-white">About</span></div>
               
             </div>
@@ -272,7 +272,7 @@
         <div class="row">
           <div class="col-lg-4">
             <div class="mb-5">
-              <h3 class="footer-heading mb-4">About Dreamchaser_tour</h3>
+              <h3 class="footer-heading mb-4">About Dreamchaser tours and travels</h3>
               <p style="text-align: justify;">We at dreamchaser tours and travels, aim to give wings to all the travellers by fulfilling their dreams to explore The unexplored destinations at an affordable price with a bunch of unmatchable amenities.
              </p>
             </div>

@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <title>Dreamchaser_tour </title>
+    <title>dreamchasertoursandtravels</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
@@ -125,7 +125,7 @@
         <div class="row">
           <div class="col-lg-4">
             <div class="mb-5">
-              <h3 class="footer-heading mb-4">About Dreamchaser_tour</h3>
+              <h3 class="footer-heading mb-4">About Dreamchaser tours and travels</h3>
               <p style="text-align: justify;">We at dreamchaser tours and travels, aim to give wings to all the travellers by fulfilling their dreams to explore The unexplored destinations at an affordable price with a bunch of unmatchable amenities.
              </p>
             </div>

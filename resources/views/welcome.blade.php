@@ -237,6 +237,20 @@
             <div class="container">
               <div class="row">
                 <div class="col-lg-6 mb-5">
+                  <img src="images/client.jpeg" alt="Image" class="img-md-fluid">
+                </div>
+                <div class="overlap-left col-lg-6 bg-white p-md-5 align-self-center">
+                  <p class="text-black lead" style="text-align: justify;">&ldquo;We were very much delighted that we choose dreamchasers tour and travels for our 4 days college tour in Kullu,Manali and solang valley.They provide very much information and the hotel was very beautiful Really nice service, felt like family. Such an easy service, made our tour a big enjoyment in Himachal Pradesh. we were very happy with the service of dreamchaser tour and travels.Thanks🥰🥰🥰.&rdquo;</p>
+                  <p class="">&mdash; <em>shivanikukreti23</em>, <a href="#">Traveler</a></p>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          <div class="item">
+            <div class="container">
+              <div class="row">
+                <div class="col-lg-6 mb-5">
                   <img src="images/012.jpeg" alt="Image" class="img-md-fluid">
                 </div>
                 <div class="overlap-left col-lg-6 bg-white p-md-5 align-self-center">
@@ -467,7 +481,7 @@
         <div class="row">
           <div class="col-lg-4">
             <div class="mb-5">
-              <h3 class="footer-heading mb-4">About Dreamchaser_tour</h3>
+              <h3 class="footer-heading mb-4">About Dreamchaser tours and travels</h3>
               <p style="text-align:justify;">We at dreamchaser tours and travels, aim to give wings to all the travellers by fulfilling their dreams to explore The unexplored destinations at an affordable price with a bunch of unmatchable amenities.</p>
             </div>
 
