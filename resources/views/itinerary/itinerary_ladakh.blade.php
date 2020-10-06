@@ -106,14 +106,188 @@
           <div class="row align-items-center justify-content-center text-center">
 
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="400">
-              <h1 class="text-white font-weight-light">Ladakh</h1>
-              <div><a href="/welcome">Home</a> <span class="mx-2 text-white">&bullet;</span> <span class="text-white">Ladakh</span></div>
+              <h1 class="text-white font-weight-light">MANALI - SOLANG VALLEY-KASOL- TOSH </h1>
+              <div><a href="/welcome">Home</a> <span class="mx-2 text-white">&bullet;</span> <span class="text-white">MANALI - SOLANG VALLEY-KASOL- TOSH </span></div>
               
             </div>
           </div>
         </div>
       </div>  
 
+      <div class="site-section" data-aos="fade-up">
+      <div class="container">
+        <div class="row align-items-center">
+
+          <div class="col-md-6 mb-5 mb-md-0">
+            <img src="images/manali01.jpeg" alt="Image" class="img-fluid">
+          </div>
+          <div class="col-md-6 pl-md-5">
+            <h2 class="font-weight-light text-black mb-4">Day 1</h2>
+            <!-- <h5>Meals: No Meals</h5> -->
+            <p style="text-align: justify;">
+           Reach Boarding point at 05:00 PM, At sharp 05:30 PM Depart from Delhi to Manali. Travel by overnight Ac deutschland bus from Delhi to Manali (10 – 14hrs). (Manali is also famous for adventure sports like skiing, hiking, mountaineering, paragliding, rafting, trekking, kayaking, and mountain biking. In short, Manali-is the "Valley of the Gods" and an ideal place for the ones in search of both adventure and comfort). Travel overnight journey by AC Deluxe Reach in Manali Next Day Morning around </p>
+          </div>
+
+          <div class="col-md-6 pl-md-5 mt-5">
+            <h2 class="font-weight-light text-black mb-4">DAY 2 </h2>
+            <!-- <h5>Meals:- Welcome drink + Dinner</h5> -->
+            <p style="text-align: justify;">
+            Today Morning time arrive in Manali Bus station and pick up from Manali Bus station to hotel. On arrival in Manali check in hotel, Afternoon half day city tour visiting by a individual car Hadimba Devi Temple (Hadimba Devi Temple is a wooden temple and is the located in middle of Van Vihar),, Vashisht Village and Temple, Vashisht Hot Water Springs, Van Vihar, Manali Market, The Mall and Tibetan Monastery. Later in the evening free to explore the Shopping Malls (Mall Road & IBEX Market) of Manali</p>
+            <p>08:00 PM - Dj Night will be start</p>
+            <p>10:30 PM- Dinner will be served </p>
+          </div>
+          <div class="col-md-6 mb-5 mb-md-0">
+            <img src="images/himalayan-stay.jpg" alt="Image" class="img-fluid rounded">
+          </div>
+
+          <br>
+
+          <div class="col-md-6 mb-5 mb-md-0">
+            <img src="images/jisapa1.jpg" alt="Image" class="img-fluid rounded">
+          </div>
+          <div class="col-md-6 pl-md-5">
+            <h2 class="font-weight-light text-black mb-4">DAY 03</h2>
+            <h5>08:00 AM - Breakfast will be served </h5>
+            <p style="text-align: justify;">
+           Today morning after breakfast drive to sightseeing of Solang valley. Enjoy Skiing, Horse Riding, Yak Riding, Snow Scooter ride (on your own expenses) by evening return to Manali.
+            07:00 PM - We will come back to hotel. 
+            08:00 PM - Bonfire with light music with Dinner 
+            Overnight Stay in hotel.</p>
+          </div>
+
+          <br>
+
+           <div class="col-md-6 pl-md-5">
+            <h2 class="font-weight-light text-black mb-4">Day 04</h2>
+            <h5>Arrival in Kasol</h5>
+            <p style="text-align: justify;">
+           Arrive in Kasol and check into River side luxury camps and Rest. We will then go for local outing of Kasol and visit Chalal Village. Come back to hotel & enjoy the dinner, bonfire along with the DJ night.</p>
+          </div>
+           <div class="col-md-6 mb-5 mb-md-0">
+            <img src="images/jispa02.jpg" alt="Image" class="img-fluid rounded">
+          </div>
+
+          <br>
+
+          <div class="col-md-6 mb-5  mt-5">
+            <img src="images/leh.jpg" alt="Image" class="img-fluid rounded">
+          </div>
+          <div class="col-md-6 pl-md-5 mt-5">
+            <h2 class="font-weight-light text-black mb-4">DAY 05 </h2>
+            <h5>Tosh Trek & Camping</h5>
+           <p style="text-align: justify;">
+           Wake up early in the morning to enjoy the stunning & scenic landscape. Freshen up, have breakfast with morning tea and get ready to begin the day.
+
+          After breakfast, we drive to Barsheni from Kasol (approx 15 km). It's a point where Tosh trek begins.
+          Kheerganga trek: It's a 1 km trek which usually takes about 30 minutes to complete. Tosh trek is full of breathtaking views that will be a sight to behold and worth capturing on your cameras or phones. While trekking, we will witness pristine waterfalls and breathtaking views which will keep us relaxed all the while. Also cafes & stop points are available where we may take short rests and indulge in some hot tea and snacks.
+
+          By late evening, we will gather at the campsite.
+          Gonna enjoy the bonfire that will be followed by dinner and overnight stay the resort under the bright stars.</p>
+          </div>
+          <br>
+          <div class="col-md-6 pl-md-5">
+            <h2 class="font-weight-light text-black mb-4">DAY 06: </h2>
+            <h5>Return Journey Fro Tosh</h5>
+           <p style="text-align: justify;">
+         Wake up early in morning to enjoy the sunrise, fresh air and morning view of Tosh. After freshening up, we will have breakfast with morning tea.
+
+          After breakfast, we will start the return journey from Tosh to Barsheni.
+          If time still persists, 
+          We can then spend some more time in Tosh .
+          We will next move forward towards the sightseeing of Manikaran Gurudwara and shiv temple 
+          In evening at around 6pm, we will board the bus from Kasol to Delhi which will be an overnight journey from Kasol to Delhi.</p>
+          </div>
+          <div class="col-md-6 mb-5 mb-md-0">
+            <img src="images/khardungla.jpg" alt="Image" class="img-fluid rounded">
+          </div>
+
+          <br>
+
+          <div class="col-md-6 mb-5 mb-md-0">
+            <img src="images/nubra.jpg" alt="Image" class="img-fluid rounded">
+          </div>
+          <div class="col-md-6 pl-md-5">
+            <h2 class="font-weight-light text-black mb-4">Day 07</h2>
+            <h5>Back to Delhi</h5>
+           <p style="text-align: justify;">
+            Reach Delhi in the morning with a bucketload of memories and endless pictures.
+              Sure that nostalgia will hit us right in the feels. Later, we bid goodbye to our fellow travellers</p>
+          </div>
+        </div>
+           <br><br>
+        <div class="">
+          <h3>Cost​ ​Inclusions:</h3>
+          <ul>
+            <li>2 nights & 3 days Stay in Manali</li>
+            <li>1 Night in Kasol</li>
+            <li>1 Night in Tosh</li>
+            <li>Rooms will be on quad sharing
+            4 Breakfasts & 4 dinners
+            Stay in deluxe rooms
+            Tosh trekking/hiking
+            Bonfire with music</li>
+          </ul>
+        </div>
+        <div class="">
+          <h3>Trip Highlight:</h3>
+          <ul>
+            <li>Trip will cover Manali Solang Kasol, Tosh</li>
+            <li>Nature lover who loves hiking, scenic beauty, forest, rivers & mountain.</li>
+            <li> Wanted to spend time in rustic and non commercialised place.</li>
+            <li> Spend time Kasol cafe and can have local & israel food.</li>
+            <li>Exploring some amazing village & culture of tosh & rafting</li>
+            <li>Take rest and spend time in Kasol without feeling guilty .</li>
+            <li>Meeting new people & spending me time in a place like heaven in himachal .</li>
+          </ul>
+        </div>
+        <div class="">
+          <h3>Cost​ Exclusions:</h3>
+          <ul>
+            <li>Anything else that is not mentioned in the inclusions</li>
+            <li>Any meals other than those specified in programme</li>
+            <li>Expenses of personal nature such as tips, telephone calls, laundry, medication etc</li>
+            <li>Any other item not specified in ‘cost includes’</li>
+            <li>Any Monument entry fees/Camera Fees.</li>
+            <li>Any other Adventure activity</li>
+          </ul>
+        </div>
+        <br><br>
+        <table class="table table-hover">
+          <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Location</th>
+              <th scope="col">HOTEL NAME</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <th scope="row">1</th>
+              <td>Manali</td>
+              <td> HOTEL DAFFODIL MANALI</td>
+              
+            </tr>
+            <tr>
+              <th scope="row"></th>
+              <td>KASOL</td>
+              <td>KASOL HEIGHT CAMPS </td>
+            </tr>
+            <tr>
+              <th scope="row"></th>
+              <td>TOSH</td>
+              <td>ROYAL STAYS</td>
+            </tr>
+    
+          </tbody>
+        </table>
+        <br><br>
+      
+        <div>
+          <a href="/policy" style="color: blue;">T&C Apply</a>
+        </div>
+      </div>
+  
+    </div>
 
      <div class="">
       <a title="Send WhatsApp" href="https://api.whatsapp.com/send?phone= +91 9911297129&amp;text=Hi, Team" target=”_blank”><i style="background-color: #25D366; color: white; background:linear-gradient(#25D366,#25D366)10px 84%/0px 9px no-repeat,radial-gradient(circle at center, #25D366 63%,transparent 0);  position: fixed;

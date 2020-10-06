@@ -134,7 +134,7 @@
               <img src="images/photo-1513035070891-10ef85afde5a.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
                <button onclick="window.location.href = '/ladakh_itinerary'" type="button" class="mb-4 btn btn-outline-info itinerary" data-source="ladakh">View Itinerary</button>
-                <h3 class="unit-1-heading">Ladakh</h3> 
+                <h3 class="unit-1-heading">MANALI - SOLANG VALLEY-KASOL- TOSH </h3> 
               </div>
             </a>
           </div>
@@ -143,7 +143,7 @@
               <img src="images/a2e5c9488f7215c8cc133579b513bc77.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
                <button onclick="window.location.href = '/manali_itinerary'" type="button" class="mb-4 btn btn-outline-info itinerary" data-source="manali">View Itinerary</button>
-                <h3 class="unit-1-heading">Manali</h3>
+                <h3 class="unit-1-heading">MANALI - LEH - Ladakh</h3>
               </div>
             </a>
           </div>
@@ -152,7 +152,7 @@
               <img src="images/09801851e7834de8a14fc42eb0ab8fba.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
                <button onclick="window.location.href = '/kasol_itinerary'" type="button" class="mb-4 btn btn-outline-info itinerary" data-source="kasol" >View Itinerary</button>
-                <h3 class="unit-1-heading">Kasol</h3>
+                <h3 class="unit-1-heading">MANALI-SOLANG-KULLU-NAGGAR-KASOL-MANIKARAN-TOSH</h3>
               </div>
             </a>
           </div>
@@ -162,7 +162,7 @@
               <img src="images/depositphotos_7560445-stock-photo-background-of-tropical-view-goa.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
                <button onclick="window.location.href = '/goa_itinerary'" type="button" class="mb-4 btn btn-outline-info itinerary" data-source="goa" >View Itinerary</button>
-                <h3 class="unit-1-heading">Goa</h3>
+                <h3 class="unit-1-heading">MANALI - SOLANG-KASOL- MALANA</h3>
               </div>
             </a>
           </div>
@@ -171,7 +171,7 @@
               <img src="images/watermarked-PANO_20170815_161025-960x1149.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
                <button onclick="window.location.href = '/kedarnath_itinerary'" type="button" class="mb-4 btn btn-outline-info itinerary" data-source="kedarnath" >View Itinerary</button>
-                <h3 class="unit-1-heading">Kedarnath </h3>
+                <h3 class="unit-1-heading">KEDARNATH </h3>
               </div>
             </a>
           </div>
@@ -180,7 +180,7 @@
               <img src="images/img_1.jpg" alt="Image" class="img-fluid">
               <div class="unit-1-text">
                <button onclick="window.location.href = '/mcleodganj_itinerary'" type="button" class="mb-4 btn btn-outline-info itinerary" data-source="mcleodganj"  >View Itinerary</button>
-                <h3 class="unit-1-heading">Mcleodganj</h3>
+                <h3 class="unit-1-heading">MCLEODGANJ</h3>
               </div>
             </a>
           </div>

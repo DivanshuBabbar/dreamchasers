@@ -106,13 +106,152 @@
           <div class="row align-items-center justify-content-center text-center">
 
             <div class="col-md-8" data-aos="fade-up" data-aos-delay="400">
-              <h1 class="text-white font-weight-light">Kasol</h1>
-              <div><a href="/welcome">Home</a> <span class="mx-2 text-white">&bullet;</span> <span class="text-white">Kasol</span></div>
+              <h3 class="text-white font-weight-light">MANALI-SOLANG-KULLU-NAGGAR-KASOL-MANIKARAN-TOSH</h3>
+              <div><a href="/welcome">Home</a> <span class="mx-2 text-white">&bullet;</span> <span class="text-white"></span></div>
               
             </div>
           </div>
         </div>
       </div>  
+
+        <div class="site-section" data-aos="fade-up">
+      <div class="container">
+        <div class="row align-items-center">
+
+          <div class="col-md-6 mb-5 mb-md-0">
+            <img src="images/manali01.jpeg" alt="Image" class="img-fluid">
+          </div>
+          <div class="col-md-6 pl-md-5">
+            <h2 class="font-weight-light text-black mb-4">Day 1</h2>
+            <!-- <h5>Meals: No Meals</h5> -->
+            <ul>
+              <li>Journey from delhi to manali in volvo AC bus. </li>
+              <li>Overnight journey </li>
+            </ul>
+          </div>
+
+          <div class="col-md-6 pl-md-5 mt-5">
+            <h2 class="font-weight-light text-black mb-4">DAY 2 </h2>
+            <!-- <h5>Meals:- Welcome drink + Dinner</h5> -->
+            <ul>
+              <li>Reach manali  </li>
+              <li>Checkin to hotel </li>
+              <li>local sightseeing to mall road, hidimba temple, vashishth temple.</li>
+              <li>Dinner </li>
+              <li>Overnight stay</li>
+            </ul>
+          </div>
+          <div class="col-md-6 mb-5 mb-md-0">
+            <img src="images/himalayan-stay.jpg" alt="Image" class="img-fluid rounded">
+          </div>
+
+          <br>
+
+          <div class="col-md-6 mb-5 mb-md-0">
+            <img src="images/jisapa1.jpg" alt="Image" class="img-fluid rounded">
+          </div>
+          <div class="col-md-6 pl-md-5">
+            <h2 class="font-weight-light text-black mb-4">DAY 03</h2>
+            <!-- <h5>08:00 AM - Breakfast will be served </h5> -->
+            <ul>
+              <li>breakfast</li>
+              <li>proceed for sightseeing to solang valley </li>
+              <li>In the evening return to hotel</li>
+              <li>dinner will be served </li>
+              <li>Overnight stay</li>
+            </ul>
+          </div>
+
+          <br>
+
+           <div class="col-md-6 pl-md-5">
+            <h2 class="font-weight-light text-black mb-4">Day 04</h2>
+            <!-- <h5>Arrival in Kasol</h5> -->
+             <ul>
+              <li>breakfast</li>
+              <li>proceed for sightseeing to naggar </li>
+              <li>In the evening return to hotel</li>
+              <li>dinner will be served </li>
+              <li>Overnight stay</li>
+            </ul>
+          </div>
+           <div class="col-md-6 mb-5 mb-md-0">
+            <img src="images/jispa02.jpg" alt="Image" class="img-fluid rounded">
+          </div>
+
+          <br>
+
+          <div class="col-md-6 mb-5  mt-5">
+            <img src="images/leh.jpg" alt="Image" class="img-fluid rounded">
+          </div>
+          <div class="col-md-6 pl-md-5 mt-5">
+            <h2 class="font-weight-light text-black mb-4">DAY 05 </h2>
+            <!-- <h5>Tosh Trek & Camping</h5> -->
+            <ul>
+              <li>breakfast</li>
+              <li>Proceed for sightseeing to kullu and from there onwards journey to kasol </li>
+              <li>Visit to manikaran gurudwara</li>
+              <li>Kasol hotel checkin </li>
+              <li>Overnight stay</li>
+            </ul>
+          </div>
+          <br>
+          <div class="col-md-6 pl-md-5">
+            <h2 class="font-weight-light text-black mb-4">DAY 06 </h2>
+            <!-- <h5>Return Journey Fro Tosh</h5> -->
+            <ul>
+              <li>breakfast</li>
+              <li>proceed for sightseeing to tosh village </li>
+              <li>In the evening return to hotel</li>
+              <li>dinner will be served </li>
+              <li>Overnight stay</li>
+            </ul>
+          </div>
+          <div class="col-md-6 mb-5 mb-md-0">
+            <img src="images/khardungla.jpg" alt="Image" class="img-fluid rounded">
+          </div>
+
+          <br>
+
+          <div class="col-md-6 mb-5 mb-md-0">
+            <img src="images/nubra.jpg" alt="Image" class="img-fluid rounded">
+          </div>
+          <div class="col-md-6 pl-md-5">
+            <h2 class="font-weight-light text-black mb-4">Day 07</h2>
+            <!-- <h5>Back to Delhi</h5> -->
+           <ul>
+              <li>breakfast</li>
+              <li>Drop to Kasol market </li>
+              <li>Explore the mini Israel of India</li>
+              <li>dinner will be served </li>
+              <li>In the evening board the bus and start the journey to delhi</li>
+            </ul>
+          </div>
+
+
+         <div class="col-md-6 pl-md-5">
+            <h2 class="font-weight-light text-black mb-4">DAY 08 </h2>
+            <!-- <h5>Return Journey Fro Tosh</h5> -->
+            <p>Return to Delhi ...</p>
+            
+          </div>
+          <div class="col-md-6 mb-5 mb-md-0">
+            <img src="images/khardungla.jpg" alt="Image" class="img-fluid rounded">
+          </div>
+        </div>
+           <br><br>
+        <div class="">
+          <h3>Price: 26,000/- per couple</h3>
+        </div>
+      
+        <br><br>
+      
+        <div>
+          <a href="/policy" style="color: blue;">T&C Apply</a>
+        </div>
+      </div>
+  
+    </div>
 
 
      <div class="">

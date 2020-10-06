@@ -114,6 +114,104 @@
         </div>
       </div>  
 
+
+      <div class="site-section" data-aos="fade-up">
+      <div class="container">
+        <div class="row align-items-center">
+
+          <div class="col-md-6 mb-5 mb-md-0">
+            <img src="images/manali01.jpeg" alt="Image" class="img-fluid">
+          </div>
+          <div class="col-md-6 pl-md-5">
+            <h2 class="font-weight-light text-black mb-4">Day 1</h2>
+            <h5>Delhi - McLeod</h5>
+            <p style="text-align: justify;">
+          Departure form Delhi at 7 PM (Remember 'punctuality’), Our mode of transport will be an AC traveler/Bus </p>
+          <h3> Tourist Attraction:</h3>
+          <ul>
+            <li>Murthal Dhaba</li>
+            <li>Food & Vibes</li>
+            <li>Delhi Punjabi food</li>
+          </ul>
+          </div>
+
+          <div class="col-md-6 pl-md-5 mt-5">
+            <h2 class="font-weight-light text-black mb-4">DAY 2 </h2>
+            <h5> McLeod - Bir</h5>
+            <p style="text-align: justify;">
+            We reach McLeod Ganj after an overnight journey and check in to our hotel. you don't want to be in that hotel room the entire time. We trek a little to bhagsunag temple and then the mesmerizing bhagsunag fall.Have dinner ,make friends and dance away the night .</p>
+            <h3>Tourist Attraction:</h3>
+            <ul>
+              <li>Bhagsunath Waterfall</li>
+              <li>Best Thing Of This Place:Cafe</li>
+              <li>Food Speciality: Pahadi Food</li>
+              <li>Activity: Local Sightseeing</li>
+            </ul>
+          </div>
+          <div class="col-md-6 mb-5 mb-md-0">
+            <img src="images/himalayan-stay.jpg" alt="Image" class="img-fluid rounded">
+          </div>
+
+          <br>
+
+          <div class="col-md-6 mb-5 mb-md-0">
+            <img src="images/jisapa1.jpg" alt="Image" class="img-fluid rounded">
+          </div>
+          <div class="col-md-6 pl-md-5">
+            <h2 class="font-weight-light text-black mb-4">DAY 03</h2>
+            <h5>Bir</h5>
+            <p style="text-align: justify;">
+            We check out and its time to get back and also if time allows you can visit The Dalai lama temple and the ancient St. John church. We then head to Bir. On arrival at Bir, checking Camp site & Depart for Sightseeing, overnight stay Musical night,fun activities, Bonfire Dinner.</p>
+            <h3>Tourist Attraction:</h3>
+            <ul>
+              <li>View</li>
+              <li>Best Thing Of This Place:Peace</li>
+              <li>Food Speciality: Camp side Food</li>
+              <li>Activity: Bonfire & Musical Night</li>
+            </ul>
+          </div>
+
+          <br>
+
+           <div class="col-md-6 pl-md-5">
+            <h2 class="font-weight-light text-black mb-4">Day 04</h2>
+            <h5>PARAGLIDING and CHECKOUT...</h5>
+            <p style="text-align: justify;">
+           Morning post breakfast      check out at . and drive for 1 hr. to paragliding take off point at Billing for paragliding session. Safety briefing by pilot for paraglider and paragliding flight upto 30 mins. with experience pilot. Landing at landing site at Bir. (expenses at your own) Later explore local café and then depart for Delhi.</p>
+            <h3>Tourist Attraction:</h3>
+            <ul>
+              <li>Paragliding</li>
+              <li>Best Thing Of This Place:Adventure</li>
+              <li>Food Speciality: Pahadi Food</li>
+              <li>Activity: PARAGLIDING</li>
+            </ul>
+          </div>
+           <div class="col-md-6 mb-5 mb-md-0">
+            <img src="images/jispa02.jpg" alt="Image" class="img-fluid rounded">
+          </div>
+
+          <br>
+
+          <div class="col-md-6 mb-5  mt-5">
+            <img src="images/leh.jpg" alt="Image" class="img-fluid rounded">
+          </div>
+          <div class="col-md-6 pl-md-5 mt-5">
+            <h2 class="font-weight-light text-black mb-4">DAY 05 </h2>
+            <h5>Return to Delhi</h5>
+           <p style="text-align: justify;">
+           Reach Delhi with lot of memories to remember ......</p>
+          </div>
+          <br>
+   
+        <br><br>
+      
+        <div>
+          <a href="/policy" style="color: blue;">T&C Apply</a>
+        </div>
+      </div>
+  
+    </div>
+
       <div class="">
       <a title="Send WhatsApp" href="https://api.whatsapp.com/send?phone= +91 9911297129&amp;text=Hi, Team" target=”_blank”><i style="background-color: #25D366; color: white; background:linear-gradient(#25D366,#25D366)10px 84%/0px 9px no-repeat,radial-gradient(circle at center, #25D366 63%,transparent 0);  position: fixed;
     bottom:1%;right: 10px; font-size: 50px; " class="fab fa-whatsapp "></i></a>
